@@ -1,0 +1,7 @@
+Model,Calibration,Brier Score
+XGBoost,Uncalibrated,0.0015985468635335565
+XGBoost,Sigmoid (Platt),0.0005250053628627419
+XGBoost,Isotonic,0.0004697837334442474
+RandomForest,Uncalibrated,0.00041488887328394367
+RandomForest,Sigmoid (Platt),0.0004571418327649732
+RandomForest,Isotonic,0.0003961619099156559
