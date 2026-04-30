@@ -1,0 +1,5 @@
+.venv/
+venv/
+__pycache__/
+*.so
+data/cifar-10-batches-py/
